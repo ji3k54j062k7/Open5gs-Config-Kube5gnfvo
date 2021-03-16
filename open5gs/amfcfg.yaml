@@ -1,5 +1,5 @@
 logger:
-  file: home/ubuntu/open5gs/install/var/log/open5gs/amf.log
+  file: /home/ubuntu/open5gs/install/var/log/open5gs/amf.log
 amf:
   sbi:
     - addr: 192.168.2.7
