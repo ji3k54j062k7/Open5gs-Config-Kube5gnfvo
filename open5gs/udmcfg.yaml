@@ -1,5 +1,5 @@
 logger:
-  file: /home/ubuntu/home/ubuntu/open5gs/install/var/log/open5gs/udm.log
+  file: /home/ubuntu/open5gs/install/var/log/open5gs/udm.log
 udm:
   sbi:
     - addr: 192.168.2.14

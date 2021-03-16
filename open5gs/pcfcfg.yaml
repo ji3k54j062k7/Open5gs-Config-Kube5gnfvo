@@ -1,6 +1,6 @@
 db_uri: mongodb://mongodb-svc/open5gs
 logger:
-  file: /home/ubuntu/home/ubuntu/open5gs/install/var/log/open5gs/pcf.log
+  file: /home/ubuntu/open5gs/install/var/log/open5gs/pcf.log
 pcf:
   sbi:
     - addr: 192.168.2.15
