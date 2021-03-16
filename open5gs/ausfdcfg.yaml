@@ -1,5 +1,5 @@
 logger:
-  file: /open5gs/install/var/log/open5gs/ausf.log
+  file: /home/ubuntu/home/ubuntu/open5gs/install/var/log/open5gs/ausf.log
 ausf:
   sbi:
     - addr: 192.168.2.13

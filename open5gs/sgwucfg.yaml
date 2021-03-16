@@ -1,5 +1,5 @@
 logger:
-  file: /open5gs/install/var/log/open5gs/sgwu.log
+  file: /home/ubuntu/home/ubuntu/open5gs/install/var/log/open5gs/sgwu.log
 sgwu:
   gtpu:
     - addr: 192.168.2.8

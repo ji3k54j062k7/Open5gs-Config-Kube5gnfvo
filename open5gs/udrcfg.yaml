@@ -1,6 +1,6 @@
 db_uri: mongodb://mongodb-svc/open5gs
 logger:
-  file: /open5gs/install/var/log/open5gs/udr.log
+  file: /home/ubuntu/home/ubuntu/open5gs/install/var/log/open5gs/udr.log
 udr:
   sbi:
     - addr: 192.168.2.16

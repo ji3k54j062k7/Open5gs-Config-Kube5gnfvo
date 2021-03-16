@@ -1,6 +1,6 @@
 db_uri: mongodb://mongodb-svc/open5gs
 logger:
-  file: /open5gs/install/var/log/open5gs/nrf.log
+  file: /home/ubuntu/home/ubuntu/open5gs/install/var/log/open5gs/nrf.log
 nrf:
   sbi:
     addr:

@@ -1,8 +1,8 @@
 db_uri: mongodb://mongodb-svc/open5gs
 logger:
-  file: /open5gs/install/var/log/open5gs/hss.log
+  file: /home/ubuntu/home/ubuntu/open5gs/install/var/log/open5gs/hss.log
 hss:
-  freeDiameter: /open5gs/install/etc/freeDiameter/hss.conf
+  freeDiameter: /home/ubuntu/open5gs/install/etc/freeDiameter/hss.conf
 parameter:
 max:
 pool:
